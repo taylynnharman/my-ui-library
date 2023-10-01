@@ -1,3 +1,34 @@
+# Overview
+
+I created a UI React Library called my-ui-library. 
+
+This software was written to further my web development abilities and provide a library that I can use to design web apps more efficiently.
+
+Software Demo Video: (https://youtu.be/AbZe1qPGFWA)
+
+# Development Environment
+
+Visual Stuio Code
+Python 3.11
+Git
+Tailwind CSS
+Storybook
+React
+npm
+
+# Useful Websites
+
+- Chat GPT (https://chat.openai.com/)
+- Codecademy (https://www.codecademy.com/learn/learn-typescript)
+- Creating a React UI Library using Storybook and Tailwind https://www.timurtek.com/blog-posts/creating-a-react-ui-library-using-storybook/
+
+# Future Work
+
+- Learn Typescript in depth
+- Learn React
+- Add more components to the library
+
+# Additional information from the tutorial
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
